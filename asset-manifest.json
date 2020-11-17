@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/deploy-formHub/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/deploy-formHub/static/js/main.4fc994b3.chunk.js",
+    "main.js.map": "/deploy-formHub/static/js/main.4fc994b3.chunk.js.map",
+    "runtime-main.js": "/deploy-formHub/static/js/runtime-main.1be55640.js",
+    "runtime-main.js.map": "/deploy-formHub/static/js/runtime-main.1be55640.js.map",
+    "static/js/2.acd88cf8.chunk.js": "/deploy-formHub/static/js/2.acd88cf8.chunk.js",
+    "static/js/2.acd88cf8.chunk.js.map": "/deploy-formHub/static/js/2.acd88cf8.chunk.js.map",
+    "static/js/3.95a63920.chunk.js": "/deploy-formHub/static/js/3.95a63920.chunk.js",
+    "static/js/3.95a63920.chunk.js.map": "/deploy-formHub/static/js/3.95a63920.chunk.js.map",
+    "index.html": "/deploy-formHub/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/deploy-formHub/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.acd88cf8.chunk.js.LICENSE.txt": "/deploy-formHub/static/js/2.acd88cf8.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/deploy-formHub/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1be55640.js",
+    "static/js/2.acd88cf8.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.4fc994b3.chunk.js"
+  ]
+}
